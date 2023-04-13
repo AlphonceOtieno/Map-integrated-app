@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Complex Application</string>
+    <string name="website">Visit our Website</string>
+    <string name="call">call</string>
+    <string name="Mpesa">Mpesa</string>
+    <string name="Email">Email</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
